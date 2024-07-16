@@ -64,3 +64,9 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DH4R4M&theme=react"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DH4R4M/DH4R4M/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DH4R4M/DH4R4M/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/DH4R4M/DH4R4M/blob/output/github-contribution-grid-snake.svg" />
+</picture>
